@@ -12,10 +12,12 @@
 
 * [Description](#Description)
 * [Installation](#Installation)
+* [Contact](#Contact)
 
 ## Description
 
 Based on Quasar Framework app
+
 ## Installation
 
 ### Install the dependencies
